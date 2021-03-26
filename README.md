@@ -15,16 +15,15 @@
 
 TechStack:
 
-Unity 3D
-AR
-Vuforia
-C#
-HTML5
-![image](https://user-images.githubusercontent.com/75447439/112628912-99e3aa80-8e59-11eb-806f-a91ea79e6780.png)
-CSS3
-Js
-jQuery
-Bootstrap
-OpenCV
+Unity 3D, 
+AR, 
+Vuforia, 
+C#, 
+HTML5, 
+CSS3, 
+Js, 
+jQuery, 
+Bootstrap, 
+OpenCV, 
 Python
-![image](https://user-images.githubusercontent.com/75447439/112628943-a5cf6c80-8e59-11eb-9e92-f4ea9fb1f930.png)
+
