@@ -27,3 +27,10 @@ Bootstrap,
 OpenCV, 
 Python
 
+
+Future scope: 
+
+We will develop this mobile app further. Which will give AR models on any surface anywhere.
+Implement this technology in all including underprivileged Schools and colleges  for quality education along with VR.
+This type of education can also be given as industrial trainings.
+
