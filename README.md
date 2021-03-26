@@ -11,3 +11,20 @@
 ![Picture10](https://user-images.githubusercontent.com/75447439/112628436-e8dd1000-8e58-11eb-87c0-3422d1e12522.png)
 ![Picture11](https://user-images.githubusercontent.com/75447439/112628452-eda1c400-8e58-11eb-802e-e8da0ec2228c.png)
 ![Picture12](https://user-images.githubusercontent.com/75447439/112628463-f09cb480-8e58-11eb-9d32-1b82df4e6594.png)
+
+
+TechStack:
+
+Unity 3D
+AR
+Vuforia
+C#
+HTML5
+![image](https://user-images.githubusercontent.com/75447439/112628912-99e3aa80-8e59-11eb-806f-a91ea79e6780.png)
+CSS3
+Js
+jQuery
+Bootstrap
+OpenCV
+Python
+![image](https://user-images.githubusercontent.com/75447439/112628943-a5cf6c80-8e59-11eb-9e92-f4ea9fb1f930.png)
