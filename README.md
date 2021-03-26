@@ -17,7 +17,8 @@
 PROJECT DEMO:
 https://youtu.be/c-xRnhFrHGM
 
-
+AR assets(size not supported by github)+Project ppt pdf+demo video:
+https://drive.google.com/drive/folders/1fIgZQWzmyPiqMk4HYSarZn1KGA8w7aqq?usp=sharing
 
 
 TechStack:
